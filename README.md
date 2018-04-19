@@ -6,6 +6,6 @@
 
 3.Besides, create input and outputs folder.
 
-4.Add apktool.jar and getOutputs to C:\IntGet.
+4.Add apktool.jar and getOutputs.exe to C:\IntGet.
 
-5.Execute getOutputs.
+5.Execute getOutputs.exe.
